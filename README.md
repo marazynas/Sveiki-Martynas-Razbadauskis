@@ -1,3 +1,2 @@
-# Sveik
-Martynas Razbadauskis
+# Sveik, Martynas Razbadauskis
 Rodos viskas pavyko :)
