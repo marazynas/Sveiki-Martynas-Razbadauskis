@@ -1,2 +1,2 @@
-# Sveiki-Martynas-Razbadauskis
-Just another repository
+# Sveik, Martynas Razbadauskis
+Rodos viskas pavyko :)
